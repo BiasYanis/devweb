@@ -3,7 +3,7 @@
     flex-wrap: wrap;
     flex-direction: row;
     gap: 3vw;
-    padding: 25px 250px ;
+    padding: 25px 210px ;
     justify-content: center;
  
 }
@@ -20,8 +20,11 @@
     font-size: 60px;
     letter-spacing: 2px;
 }
-body{
-    background-image: url("back6.jpg");
+body {
+    background-image: url("fond2.jpeg");
+    background-size: cover;
     background-repeat: no-repeat;
-    background-size: 1540px;
+    background-position: center;
+   
+       
 }
