@@ -1,0 +1,27 @@
+.drap{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 3vw;
+    padding: 25px 250px ;
+    justify-content: center;
+ 
+}
+.image{
+    width: 195px;
+
+}
+.image1{
+    width: 200px;
+}
+
+.titre{
+    font-family: 'Staatliches', cursive;
+    font-size: 60px;
+    letter-spacing: 2px;
+}
+body{
+    background-image: url("back6.jpg");
+    background-repeat: no-repeat;
+    background-size: 1540px;
+}
